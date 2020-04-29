@@ -1,0 +1,8 @@
+Start: 3:25pm
+Finish: 7:53pm
+
+1. Created a basic html
+2. Worked on Javascript logic to extract specific input.
+3. Created function for generating a new meme and removing meme.
+4. Reviewed for possible bugs.
+5. Completed the Meme generator.
